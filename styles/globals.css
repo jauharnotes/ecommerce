@@ -490,6 +490,12 @@ padding: 30px 65px;
   display: flex;
   gap: 30px;
 }
+
+/* .buttons {
+  display: flex;
+  gap: 30px;
+} */
+
 .buttons .add-to-cart{
   padding: 10px 20px;
   border: 1px solid #f02d34 ;
@@ -505,6 +511,10 @@ padding: 30px 65px;
 }
 .buttons .add-to-cart:hover{
   transform:scale(1.1,1.1)
+}
+
+.buy-now {
+  margin-left: 30px;
 }
 .buttons .buy-now{
   width: 200px;
